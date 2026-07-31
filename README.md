@@ -42,8 +42,8 @@ This project was created to learn the complete PCB design workflow—from schema
 
 ```
 Queaky-STEM-Toy-PCB/
-├── toy.kicad_sch
-├── toy.kicad_pcb
+├── queaky stem toy.kicad_sch
+├── queaky stem toy.kicad_pcb
 ├── README.md
 ```
 
